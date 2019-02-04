@@ -276,24 +276,13 @@ body {
 
 /* Set a specific color for each brand */
 
-/* Dribbble */
-.fa-dribbble {
-  background: #414145;
-  /* background: #C42261; */
-  color: white;
-}
-
 /* LinkedIn */
 .fa-linkedin {
   background: #414145;
   /* background: #0077b5; */
   color: white;
 }
-/* Medium */
-.fa-medium {
-  background: #414145;
-  color: white;
-}
+
 /* Google */
 .fa-google {
   background: #414145;
@@ -435,7 +424,7 @@ body {
   .about-intro {
     padding: 50px 150px;
     line-height: 45px;
-    font-size: 32px;
+    font-size: 18px;
     font-weight: 300;
   }
   .nav-portfolio {

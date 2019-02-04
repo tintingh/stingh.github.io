@@ -308,22 +308,22 @@ body {
 }
 .card1 a:hover::after {
   background: rgba(0, 0, 0, 0.6);
-  content: "Earn & Learn UX/UI Design";
+  content: "QBack UX Design";
   padding: 50px;
 }
 .card2 a:hover::after {
   background: rgba(0, 0, 0, 0.6);
-  content: "Route Creator UX/UI Design";
+  content: "Library of the Great Lake Design Jam UX Design";
   padding: 50px;
 }
 .card3 a:hover::after {
   background: rgba(0, 0, 0, 0.6);
-  content: "Samsung Global Audio UX Consulting";
+  content: "AnleneMove App UX Research";
   padding: 50px;
 }
 .card4 a:hover::after {
   background: rgba(0, 0, 0, 0.6);
-  content: "iTrack UX/Web Re-design";
+  content: "Social Profiler NewProduct Development /UX design";
   padding: 50px;
 }
 .card5 a:hover::after {
@@ -511,7 +511,9 @@ body {
     padding: 90px 120px 0 120px;
   }
   .intro-contents {
-    font-size: 19px;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-size: 35px;
     font-weight: 400;
     line-height: 34px;
     text-align: center;

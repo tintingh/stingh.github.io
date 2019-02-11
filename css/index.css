@@ -510,14 +510,14 @@ body {
   .intro {
     padding: 90px 120px 0 120px;
   }
-  .intro-contents {   
-    font-size: 19px;
+  .intro-sub {
+    font-size: 10px;
     font-weight: 400;
     line-height: 34px;
     text-align: center;
   }
-  .intro-sub {
-    font-size: 26px;
+  .intro-contents {   
+    font-size: 19px;
     font-weight: 400;
     line-height: 34px;
     text-align: center;

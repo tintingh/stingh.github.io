@@ -508,16 +508,9 @@ body {
   }
 
   .intro {
-    font-size: 15px;
     padding: 90px 120px 0 120px;
   }
   .intro-contents {   
-    font-size: 19px;
-    font-weight: 400;
-    line-height: 34px;
-    text-align: center;
-  }
-  .intro-contents-new {   
     font-size: 25px;
     font-weight: 400;
     line-height: 34px;

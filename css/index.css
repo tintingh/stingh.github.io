@@ -22,7 +22,6 @@ h6,
 p,
 blockquote,
 pre,
-a,
 abbr,
 acronym,
 address,
@@ -108,7 +107,7 @@ input[type="password"] {
   font-size: 1em;
   font-family: inherit;
 }
-new{
+a{
     font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 300px;
     font-family: adobe-garamond-pro;

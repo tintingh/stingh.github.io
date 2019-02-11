@@ -517,6 +517,12 @@ body {
     line-height: 34px;
     text-align: center;
   }
+  .intro-contents-new {   
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: center;
+  }
   .intro-sub {
     font-size: 16px;
     font-weight: 300;

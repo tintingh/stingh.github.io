@@ -13,6 +13,7 @@ span,
 applet,
 object,
 iframe,
+h1,
 h2,
 h3,
 h4,
@@ -107,7 +108,7 @@ input[type="password"] {
   font-size: 1em;
   font-family: inherit;
 }
-h1{
+new{
     font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 300px;
     font-family: adobe-garamond-pro;
